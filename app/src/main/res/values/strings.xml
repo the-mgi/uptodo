@@ -1,0 +1,33 @@
+<resources>
+  <string name="app_name">UpTodo</string>
+  <string name="skip">Skip</string>
+  <string name="back">Back</string>
+  <string name="next">next</string>
+  <string name="manage_your_tasks">Manage your tasks</string>
+  <string name="easily_manage">You can easily manage all of your daily tasks in DoMe for free</string>
+  <string name="get_started">Get Started</string>
+  <string name="create_daily_routine">Create daily routine</string>
+  <string name="personalized_experience">In UpTodo you can create your personalized routine to stay productive</string>
+  <string name="organize">Organize your tasks</string>
+  <string name="organize_daily_tasks">You can organize your daily tasks by adding your tasks into separate categories</string>
+  <string name="welcome">Welcome to UpTodo</string>
+  <string name="login_stmt">Please login to your account or create new account to continue</string>
+  <string name="login_string">Login</string>
+  <string name="create_account_string">Create Account</string>
+  <string name="username_string">Username</string>
+  <string name="enter_username">Enter your username</string>
+  <string name="passwod_string">Password</string>
+  <string name="login_google">Login with Google</string>
+  <string name="login_apple">Login with Apple</string>
+  <string name="or">or</string>
+  <string name="gogole_logo">Google Logo</string>
+  <string name="apple_logo">Apple Logo</string>
+  <string name="dont_have_account">Don\'t have an account?</string>
+  <string name="register_now">Register Now</string>
+  <string name="register">Register</string>
+  <string name="confirm_password">Confirm Password</string>
+  <string name="register_google">Register with Google</string>
+  <string name="register_apple">Register with Apple</string>
+  <string name="already_have_account">Already have an account?</string>
+  <string name="login_now">Login Now</string>
+</resources>
